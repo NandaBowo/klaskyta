@@ -30,7 +30,7 @@
 	<div class="cover-container d-flex w-100 h-100 p-3 mx-auto flex-column">
 		<header class="masthead mb-auto">
 			<div class="inner">
-				<h3 class="masthead-brand" style="color: green;">Klas<span style="color: blue;">Kyta</span></h3>
+				<h3 class="masthead-brand text-success">Klas<span class="text-primary">Kyta</span></h3>
 				<nav class="nav nav-masthead justify-content-center">
 					<a class="nav-link text-primary" href="#">Login</a>
 					<a class="nav-link text-success" href="#">Register</a>
@@ -39,7 +39,7 @@
 		</header>
 
 		<main role="main" class="inner cover">
-			<h1 class="cover-heading"><span style="color: green;">Klas</span><span style="color: blue;">Kyta</span></h1>
+			<h1 class="cover-heading"><span class="text-success">Klas</span><span class="text-primary">Kyta</span></h1>
 			<p class="lead">Aplikasi berbasis website untuk pengelolaan kelas</p>
 			<p class="lead">
 				<a href="#" class="btn btn-lg btn-primary">Login</a>
@@ -49,7 +49,7 @@
 
 		<footer class="mastfoot mt-auto">
 			<div class="inner">
-				<p><span style="color: green;">Klas</span><span style="color: blue;">Kyta</span> by Nanda D. Cahyo</p>
+				<p><span class="text-success">Klas</span><span class="text-primary">Kyta</span> by Nanda D. Cahyo</p>
 			</div>
 		</footer>
 	</div>
