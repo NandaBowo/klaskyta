@@ -30,7 +30,13 @@
 							<a class="dropdown-item" href="#">Input Absensi</a>
 							<a class="dropdown-item" href="#">Cek Absensi</a>
 							<a class="dropdown-item" href="#">Rekap Absensi</a>
+                                                        <a class="dropdown-item" href="#">Hapus Absensi</a>
 						</div>
+
+
+
+
+
 					</li>
 				</ul>
 				<ul class="navbar-nav ml-auto">
