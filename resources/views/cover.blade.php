@@ -23,25 +23,9 @@
 	</style>
 </head>
 <body class="text-center">
-	<div class="cover-container d-flex w-100 h-100 p-3 mx-auto flex-column">
-		<header class="masthead mb-auto">
-			<div class="inner">
-				<h3 class="masthead-brand text-success">Klas<span class="text-primary">Kyta</span></h3>
-				<nav class="nav nav-masthead justify-content-center">
-					<a class="nav-link text-primary" href="#">Login</a>
-					<a class="nav-link text-success" href="#">Register</a>
-				</nav>
-			</div>
-		</header>
-
-		<main role="main" class="inner cover">
-			<h1 class="cover-heading"><span class="text-success">Klas</span><span class="text-primary">Kyta</span></h1>
-			<p class="lead">Aplikasi berbasis website untuk pengelolaan kelas</p>
-			<p class="lead">
-				<a href="#" class="btn btn-lg btn-primary">Login</a>
-				<a href="#" class="btn btn-lg btn-success">Register</a>
-			</p>
-		</main>
+	<h1>Once PEPEGA always PEPEGA</h1>
+	<img src="https://www.streamscheme.com/wp-content/uploads/2020/04/pepega.png"><img src="https://www.streamscheme.com/wp-content/uploads/2020/04/pepega.png"><img src="https://www.streamscheme.com/wp-content/uploads/2020/04/pepega.png"><br><img src="https://www.streamscheme.com/wp-content/uploads/2020/04/pepega.png"><img src="https://www.streamscheme.com/wp-content/uploads/2020/04/pepega.png"><img src="https://www.streamscheme.com/wp-content/uploads/2020/04/pepega.png"><br><img src="https://www.streamscheme.com/wp-content/uploads/2020/04/pepega.png"><img src="https://www.streamscheme.com/wp-content/uploads/2020/04/pepega.png"><img src="https://www.streamscheme.com/wp-content/uploads/2020/04/pepega.png"><br><img src="https://www.streamscheme.com/wp-content/uploads/2020/04/pepega.png"><img src="https://www.streamscheme.com/wp-content/uploads/2020/04/pepega.png"><img src="https://www.streamscheme.com/wp-content/uploads/2020/04/pepega.png"><img src="https://www.streamscheme.com/wp-content/uploads/2020/04/pepega.png"><br><img src="https://www.streamscheme.com/wp-content/uploads/2020/04/pepega.png"><img src="https://www.streamscheme.com/wp-content/uploads/2020/04/pepega.png"><img src="https://www.streamscheme.com/wp-content/uploads/2020/04/pepega.png"><img src="https://www.streamscheme.com/wp-content/uploads/2020/04/pepega.png"><br><img src="https://www.streamscheme.com/wp-content/uploads/2020/04/pepega.png"><img src="https://www.streamscheme.com/wp-content/uploads/2020/04/pepega.png"><img src="https://www.streamscheme.com/wp-content/uploads/2020/04/pepega.png"><img src="https://www.streamscheme.com/wp-content/uploads/2020/04/pepega.png"><img src="https://www.streamscheme.com/wp-content/uploads/2020/04/pepega.png"><br><br>
+	<img src="<img src="https://www.streamscheme.com/wp-content/uploads/2020/04/pepega.png">">
 
 		<footer class="mastfoot mt-auto">
 			<div class="inner">
