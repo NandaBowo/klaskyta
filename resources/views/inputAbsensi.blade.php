@@ -1,9 +1,9 @@
 @extends('layouts.main')
 
-@section('title', 'KlasKyta')
+@section('title', 'Input Absensi')
 
 @section('content')
 
-	Dashboard
+	Input Absensi
 
 @endsection
