@@ -14,11 +14,19 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-	return view('cover');
+	return view('dashboard');
 });
 
-Route::get('/dashboard', function () {
-	return view('dashboard');
+Route::get('/rekapAbsensi', function () {
+	return view('rekapAbsensi');
+});
+
+Route::get('/inputAbsensi', function () {
+	return view('inputAbsensi');
+});
+
+Route::get('/cekAbsensi', function () {
+	return view('cekAbsensi');
 });
 
 Route::get('about', function () {
